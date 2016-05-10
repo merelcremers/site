@@ -73,6 +73,8 @@
 
 
 
+
+
 #ext_menu-4 .mbr-brand__name {
   font-size: 16px;
 }
@@ -108,24 +110,34 @@
   font-size: 72px;
 }
 #header3-48 SPAN {
-  font-size: 100px;
+  font-size: 72px;
 }
 #image2-50 SMALL {
   font-family: 'Raleway', sans-serif;
   color: #252525;
   text-align: right;
-  font-size: 16px;
+  font-size: 14px;
 }
 #image2-50 I {
   color: #252525;
   font-family: 'Raleway', sans-serif;
   text-align: left;
+  font-size: 15px;
 }
 #header3-51 H3 {
   text-align: center;
+  color: #ffffff;
+  font-size: 8px;
+  font-family: 'Raleway', sans-serif;
 }
 #header3-51 SPAN {
   color: #ffffff;
+}
+#header3-51 P {
+  color: #252525;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
 }
 #image2-41 SMALL {
   font-family: 'Raleway', sans-serif;
@@ -134,15 +146,16 @@
   text-align: left;
 }
 #content1-52 P {
-  color: #cc6632;
+  color: #000000;
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
+  text-align: center;
 }
 #content1-52 BLOCKQUOTE {
   color: #cc6632;
 }
 #image1-49 SMALL {
-  font-size: 16px;
+  font-size: 14px;
   color: #252525;
   text-align: left;
   font-family: 'Raleway', sans-serif;
@@ -153,11 +166,11 @@
   font-size: 80px;
 }
 #header3-29 SPAN {
-  font-size: 84px;
+  font-size: 72px;
 }
 #image2-59 SMALL {
   color: #252525;
-  font-size: 16px;
+  font-size: 15px;
   font-family: 'Raleway', sans-serif;
   text-align: center;
 }
@@ -176,7 +189,7 @@
 #image2-54 SMALL {
   color: #252525;
   font-family: 'Raleway', sans-serif;
-  font-size: 16px;
+  font-size: 15px;
 }
 #header3-30 H3 {
   text-align: center;
@@ -193,7 +206,7 @@
 #image2-61 SMALL {
   color: #000000;
   font-family: 'Raleway', sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   text-align: right;
 }
 #header3-65 H3 {
@@ -201,12 +214,12 @@
   font-size: 84px;
 }
 #header3-65 SPAN {
-  font-size: 60px;
+  font-size: 72px;
 }
 #image2-64 SMALL {
   text-align: right;
   color: #252525;
-  font-size: 16px;
+  font-size: 15px;
   font-family: 'Raleway', sans-serif;
 }
 
@@ -255,11 +268,11 @@
 #header3-39 SPAN {
   font-size: 72px;
 }
-#image2-68 SMALL {
+#image2-60 SMALL {
+  color: #000000;
   font-family: 'Raleway', sans-serif;
-  color: #252525;
-  text-align: left;
-  font-size: 16px;
+  font-size: 15px;
+  text-align: right;
 }
 #header3-69 H3 {
   text-align: center;
@@ -284,9 +297,14 @@
   font-size: 72px;
   text-align: center;
 }
-#image2-75 SMALL {
-  color: #252525;
+#header3-67 H3 {
+  text-align: center;
+  font-size: 72px;
+}
+#image2-68 SMALL {
   font-family: 'Raleway', sans-serif;
+  color: #252525;
+  text-align: center;
   font-size: 16px;
 }
 #footer1-9 P {

@@ -8,7 +8,7 @@
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-74260233-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "publishType": "local",
     "publishPath": "file:///Users/Merel/Pictures/Website/NEW/Site_en/site",
-    "path": "file:///Users/Merel/Pictures/Website/NEW/Site_en/site",
+    "path": "file:///Users/Merel/Pictures/Website/NEW/Site_en",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -176,7 +176,7 @@
           },
           "_anchor": "footer1-3",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -187,7 +187,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright © 2016 Merel Cremers | &nbsp;<a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\">Privacy Policy</a><br><br><b><a href=\"http://googledrive.com/host/0B20FYeg6hUnjLUptNGRVcUxTWG8\" class=\"text-black\">Nederlands</a> &nbsp; | &nbsp;&nbsp;<a href=\"index.html\" class=\"text-black\">English</a></b>"
+          "text": "<span style=\"line-height: 1.5em;\">Copyright © 2016 Merel Cremers | &nbsp;</span><a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\" style=\"line-height: 1.5em; background-color: rgb(255, 255, 255);\">Privacy Policy</a><br><b>Nederlands &nbsp; | &nbsp;&nbsp;<a href=\"index.html\" class=\"text-black\">English</a></b>"
         }
       ]
     },
@@ -310,7 +310,7 @@
               "font-size": "72px"
             },
             "SPAN": {
-              "font-size": "100px"
+              "font-size": "72px"
             }
           },
           "_anchor": "header3-48",
@@ -328,13 +328,14 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "color": "#252525",
               "text-align": "right",
-              "font-size": "16px"
+              "font-size": "14px"
             },
             "I": {
               "color": "#252525",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "text-align": "left"
+              "text-align": "left",
+              "font-size": "15px"
             }
           },
           "_anchor": "image2-50",
@@ -358,7 +359,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "\"Concetta\" a<i>&nbsp;Fontane inspired plate.</i>"
+          "text": "\"Concetta\" plate<i>&nbsp;inspired by Lucio Fontane .</i>"
         },
         {
           "_name": "gallery1",
@@ -399,18 +400,29 @@
           "_name": "header3",
           "_styles": {
             "H3": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-size": "8px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             "SPAN": {
               "color": "#ffffff"
+            },
+            "P": {
+              "color": "#252525",
+              "text-align": "center",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "15px"
             }
           },
           "_anchor": "header3-51",
-          "title": "<span style=\"font-weight: normal;\">WEASEL</span>",
+          "title": "plates",
           "_params": {
-            "showMeta": false
+            "showMeta": true
           },
-          "meta": "By John Smith posted July 30, 2015"
+          "meta": "A series of tests mimicking food (remains) upon readymade recycled tableware."
         },
         {
           "_name": "image2",
@@ -426,7 +438,7 @@
           "_anchor": "image2-41",
           "_params": {
             "outside": true,
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -444,29 +456,30 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "A series of tests mimicking food (remains) upon readymade recycled tableware."
+          "text": ""
         },
         {
           "_name": "content1",
           "_styles": {
             "P": {
-              "color": "#cc6632",
+              "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px"
+              "font-size": "16px",
+              "text-align": "center"
             },
             "BLOCKQUOTE": {
               "color": "#cc6632"
             }
           },
           "_anchor": "content1-52",
-          "text": "<p><br></p><p><br></p>"
+          "text": "<p><br></p><p><br></p><p>---</p><p><br></p>"
         },
         {
           "_name": "image1",
           "_styles": {
             "SMALL": {
-              "font-size": "16px",
+              "font-size": "14px",
               "color": "#252525",
               "text-align": "left",
               "font-family": "'Raleway', sans-serif",
@@ -495,7 +508,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Weasel ferret something-sculpture."
+          "text": "Weasel ferret something sculpture."
         },
         {
           "_name": "gallery1",
@@ -542,7 +555,7 @@
               "font-size": "80px"
             },
             "SPAN": {
-              "font-size": "84px"
+              "font-size": "72px"
             }
           },
           "_anchor": "header3-29",
@@ -557,7 +570,7 @@
           "_styles": {
             "SMALL": {
               "color": "#252525",
-              "font-size": "16px",
+              "font-size": "15px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "text-align": "center"
@@ -689,7 +702,7 @@
               "color": "#252525",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px"
+              "font-size": "15px"
             }
           },
           "_anchor": "image2-54",
@@ -713,7 +726,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Research on tableware using cooking-methods to create the pieces."
+          "text": "Research on our daily tableware using cooking-methods to create an alternative set."
         },
         {
           "_inherit": "gallery1",
@@ -867,7 +880,7 @@
           },
           "_anchor": "footer1-6",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -878,7 +891,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright © 2016 Merel Cremers | &nbsp;<a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\">Privacy Policy</a><br><br><b><a href=\"http://googledrive.com/host/0B20FYeg6hUnjLUptNGRVcUxTWG8\" class=\"text-black\">Nederlands</a> &nbsp; | &nbsp;&nbsp;<a href=\"index.html\" class=\"text-black\">English</a></b>"
+          "text": "<span style=\"line-height: 1.5em;\">Copyright © 2016 Merel Cremers | &nbsp;</span><a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\" style=\"line-height: 1.5em; background-color: rgb(255, 255, 255);\">Privacy Policy</a><br><b>Nederlands &nbsp; | &nbsp;&nbsp;<a href=\"index.html\" class=\"text-black\">English</a></b>"
         },
         {
           "_name": "image2",
@@ -887,7 +900,7 @@
               "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "16px",
+              "font-size": "14px",
               "text-align": "right"
             }
           },
@@ -912,7 +925,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Triptitch of plate related shapes emphasising on surfaces and their relation."
+          "text": "Triptitch of plate-related shapes emphasising on surfaces and their relation.<br><br><br>"
         },
         {
           "_name": "header3",
@@ -922,11 +935,11 @@
               "font-size": "84px"
             },
             "SPAN": {
-              "font-size": "60px"
+              "font-size": "72px"
             }
           },
           "_anchor": "header3-65",
-          "title": "<br><span style=\"font-weight: normal;\"><br>2012<br></span>",
+          "title": "<br><span style=\"font-weight: normal;\">2012<br></span>",
           "_params": {
             "showMeta": false
           },
@@ -938,7 +951,7 @@
             "SMALL": {
               "text-align": "right",
               "color": "#252525",
-              "font-size": "16px",
+              "font-size": "15px",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
@@ -1090,7 +1103,7 @@
             }
           },
           "_anchor": "header3-39",
-          "title": "<span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\">2012</span><br><span style=\"font-weight: normal;\"> &nbsp;</span>",
+          "title": "<span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\">2016</span><br><span style=\"font-weight: normal;\"> &nbsp;</span>",
           "_params": {
             "showMeta": false
           },
@@ -1100,14 +1113,14 @@
           "_name": "image2",
           "_styles": {
             "SMALL": {
+              "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "color": "#252525",
-              "text-align": "left",
-              "font-size": "16px"
+              "font-size": "15px",
+              "text-align": "right"
             }
           },
-          "_anchor": "image2-68",
+          "_anchor": "image2-60",
           "_params": {
             "outside": true,
             "showText": true
@@ -1115,7 +1128,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/dodo-1600x1600-86.jpg",
+              "src": "@PROJECT_PATH@/assets/images/hare-1245x1049-82.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -1128,7 +1141,7 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Extinction."
+          "text": "Het haasje.<br><br><br><br>"
         },
         {
           "_inherit": "gallery1",
@@ -1136,27 +1149,27 @@
           "_params": {
             "images": [
               {
+                "caption": "",
+                "thumb": "@PROJECT_PATH@/assets/images/2-1600x1211-12-1600x1211-68.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-1600x1211-12.jpg",
+                "active": false
+              },
+              {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/dodo4-1600x1199-2-1600x1199-73.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dodo4-1600x1199-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-1600x1211-57-1600x1211-24.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-1600x1211-57.jpg",
                 "active": true
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/dodo3-1600x1199-31-1600x1199-88.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dodo3-1600x1199-31.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-1600x1211-51-1600x1211-67.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-1600x1211-51.jpg",
                 "active": false
               },
               {
                 "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/dodo2-1600x1199-65-1600x1199-99.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dodo2-1600x1199-65.jpg",
-                "active": false
-              },
-              {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/dodo1-1600x1199-50-1600x1199-60.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dodo1-1600x1199-50.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-1600x1211-2-1600x1211-82.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-1600x1211-2.jpg",
                 "active": false
               }
             ],
@@ -1164,7 +1177,7 @@
             "fullWidth": false,
             "noGutter": false
           },
-          "_anchor": "gallery2-74",
+          "_anchor": "gallery2-65",
           "articleLayout": true
         },
         {
@@ -1178,7 +1191,7 @@
             }
           },
           "_anchor": "header3-69",
-          "title": "<span style=\"font-weight: normal;\"><br></span><br><br><br><br><span style=\"font-weight: normal;\"><br>2014</span><span style=\"font-weight: normal;\"><br></span>",
+          "title": "<span style=\"font-weight: normal;\"><br></span><br><br><br><span style=\"font-weight: normal;\"><br>2014</span><span style=\"font-weight: normal;\"><br></span>",
           "_params": {
             "showMeta": false
           },
@@ -1303,19 +1316,93 @@
             }
           },
           "_anchor": "content1-72",
-          "text": "<p><br></p><p><br></p><p>2016</p><p><br></p>"
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>2013</p><p><br></p>"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_name": "slider2",
+          "_params": {
+            "autoplay": true,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/1klein-1600x1128-25.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2klein-1600x1128-52.jpg",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/3klein-1600x1128-18.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/4klein-1600x1128-20.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "showBullets": false
+          },
+          "_anchor": "slider2-62",
+          "articleLayout": true
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "72px"
+            }
+          },
+          "_anchor": "header3-67",
+          "title": "<span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\">2012</span>",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": ""
         },
         {
           "_name": "image2",
           "_styles": {
             "SMALL": {
-              "color": "#252525",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#252525",
+              "text-align": "center",
               "font-size": "16px"
             }
           },
-          "_anchor": "image2-75",
+          "_anchor": "image2-68",
           "_params": {
             "outside": true,
             "showText": true
@@ -1323,7 +1410,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/hare-1245x1049-3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dodo-1600x1600-86.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -1336,7 +1423,44 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "is het haasje."
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><span style=\"line-height: 1.3em;\"><br></span><br><span style=\"line-height: 1.3em;\">Project \"Extinction\"</span><br><br>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dodo4-1600x1199-2-1600x1199-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dodo4-1600x1199-2.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dodo3-1600x1199-31-1600x1199-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dodo3-1600x1199-31.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dodo2-1600x1199-65-1600x1199-99.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dodo2-1600x1199-65.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dodo1-1600x1199-50-1600x1199-60.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dodo1-1600x1199-50.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": false
+          },
+          "_anchor": "gallery2-74",
+          "articleLayout": true
         },
         {
           "_name": "footer1",
@@ -1350,7 +1474,7 @@
           },
           "_anchor": "footer1-9",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -1361,7 +1485,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright © 2016 Merel Cremers | &nbsp;<a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\">Privacy Policy</a><br><br><b><a href=\"http://googledrive.com/host/0B20FYeg6hUnjLUptNGRVcUxTWG8\" class=\"text-black\">Nederlands</a> &nbsp; | &nbsp;&nbsp;<a href=\"index.html\" class=\"text-black\">English</a></b>"
+          "text": "<span style=\"line-height: 1.5em;\">Copyright © 2016 Merel Cremers | &nbsp;</span><a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\" style=\"line-height: 1.5em; background-color: rgb(255, 255, 255);\">Privacy Policy</a><br><b>Nederlands &nbsp; | &nbsp;&nbsp;<a href=\"index.html\" class=\"text-black\">English</a></b>"
         }
       ]
     },
@@ -1531,7 +1655,7 @@
           },
           "_anchor": "footer1-12",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -1542,7 +1666,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright © 2016 Merel Cremers | &nbsp;<a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\">Privacy Policy</a><br><br><b><a href=\"http://googledrive.com/host/0B20FYeg6hUnjLUptNGRVcUxTWG8\" class=\"text-black\">Nederlands</a> &nbsp; | &nbsp;&nbsp;<a href=\"index.html\" class=\"text-black\">English</a></b>"
+          "text": "<span style=\"line-height: 1.5em;\">Copyright © 2016 Merel Cremers | &nbsp;</span><a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\" style=\"line-height: 1.5em; background-color: rgb(255, 255, 255);\">Privacy Policy</a><br><b>Nederlands &nbsp; | &nbsp;&nbsp;<a href=\"index.html\" class=\"text-black\">English</a></b>"
         }
       ]
     },
@@ -1655,7 +1779,7 @@
           },
           "_anchor": "footer1-15",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -1666,7 +1790,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright © 2016 Merel Cremers | &nbsp;<a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\">Privacy Policy</a><br><br><b><a href=\"http://googledrive.com/host/0B20FYeg6hUnjLUptNGRVcUxTWG8\" class=\"text-black\">Nederlands</a> &nbsp; | &nbsp;&nbsp;<a href=\"index.html\" class=\"text-black\">English</a></b>"
+          "text": "<span style=\"line-height: 1.5em;\">Copyright © 2016 Merel Cremers | &nbsp;</span><a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\" style=\"line-height: 1.5em; background-color: rgb(255, 255, 255);\">Privacy Policy</a><br><b>Nederlands &nbsp; | &nbsp;&nbsp;<a href=\"index.html\" class=\"text-black\">English</a></b>"
         },
         {
           "_name": "form1",
@@ -2027,7 +2151,7 @@
           },
           "_anchor": "footer1-18",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -2038,7 +2162,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright © 2016 Merel Cremers | &nbsp;<a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\">Privacy Policy</a><br><br><b><a href=\"http://googledrive.com/host/0B20FYeg6hUnjLUptNGRVcUxTWG8\" class=\"text-black\">Nederlands</a> &nbsp; | &nbsp;&nbsp;<a href=\"index.html\" class=\"text-black\">English</a></b>"
+          "text": "<span style=\"line-height: 1.5em;\">Copyright © 2016 Merel Cremers | &nbsp;</span><a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\" style=\"line-height: 1.5em; background-color: rgb(255, 255, 255);\">Privacy Policy</a><br><b>Nederlands &nbsp; | &nbsp;&nbsp;<a href=\"index.html\" class=\"text-black\">English</a></b>"
         }
       ]
     },
@@ -2197,7 +2321,7 @@
           },
           "_anchor": "footer1-24",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -2208,7 +2332,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright © 2016 Merel Cremers | &nbsp;<a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\">Privacy Policy</a><br><br><b><a href=\"http://googledrive.com/host/0B20FYeg6hUnjLUptNGRVcUxTWG8\" class=\"text-black\">Nederlands</a> &nbsp; | &nbsp;&nbsp;<a href=\"index.html\" class=\"text-black\">English</a></b>"
+          "text": "<span style=\"line-height: 1.5em;\">Copyright © 2016 Merel Cremers | &nbsp;</span><a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\" style=\"line-height: 1.5em; background-color: rgb(255, 255, 255);\">Privacy Policy</a><br><b>Nederlands &nbsp; | &nbsp;&nbsp;<a href=\"index.html\" class=\"text-black\">English</a></b>"
         }
       ]
     }
